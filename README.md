@@ -13,3 +13,5 @@
 3. 6.824: Distributed Systems
 
   [https://pdos.csail.mit.edu/6.824/] (MIT)
+  
+  [https://www.douban.com/note/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F?people=tanso](ref)
